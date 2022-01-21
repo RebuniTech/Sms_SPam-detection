@@ -1,2 +1,2 @@
-# Githubcopilet
-this is our natural language processing (NLP) project
+#sms spam detection 
+this is our nlp project which identfies any message is spam or not spam(ham)
