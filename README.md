@@ -54,6 +54,6 @@ Accuracy, recall, precision,fl-score.
 The application of a model for prediction using a new data refer to as Deployment.
 
 # 03 APPLICATION
-## Messaging Platforms
-## Mailing Service
+### Messaging Platforms
+### Mailing Service
 
